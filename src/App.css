@@ -13,6 +13,35 @@
   }
 }
 
+
+.app-container {
+  display: flex;
+  height: 97vh;
+  overflow: hidden;
+}
+
+.sidebar-left,
+.sidebar-right {
+  width: 250px;
+  padding: 10px;
+  background: #f0f0f0;
+  overflow-y: auto;
+}
+
+.main-canvas {
+  flex: 1;
+  background: #111;
+  overflow: hidden; /* was: auto */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
