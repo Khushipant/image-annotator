@@ -1,3 +1,12 @@
+🔐 Login Credentials (Default)
+To access the image annotator tool, use the following default admin login:
+
+Username: admin
+
+Password: admin123
+
+You can modify these values in LoginScreen.js if needed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
