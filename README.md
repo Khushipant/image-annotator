@@ -3,7 +3,7 @@ To access the image annotator tool, use the following default admin login:
 
 Username: admin
 
-Password: admin123
+Password: 123456
 
 You can modify these values in LoginScreen.js if needed.
 
